@@ -1,0 +1,21 @@
+{
+  "name": "@alexskrypnyk/sanbox",
+  "version": "0.0.1",
+  "description": "Sandbox testing",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Would run build",
+    "lint": "echo Would run code lint",
+    "test": "echo Would run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSkrypnyk/sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSkrypnyk/sandbox/issues"
+  },
+  "homepage": "https://github.com/AlexSkrypnyk/sandbox#readme"
+}
