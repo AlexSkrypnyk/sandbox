@@ -1,4 +1,4 @@
 # sandbox
 
-Some changes to the README.md file. Fore release 0.9.0
+Some changes to the README.md file. For release 0.11.0
 
